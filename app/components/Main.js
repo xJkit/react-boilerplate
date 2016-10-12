@@ -5,7 +5,7 @@ class Main extends Component {
     super(props)
   }
 
-  rener(){
+  render(){
     return(
       <div>Main component rendered successfully.</div>
     )

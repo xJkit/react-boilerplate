@@ -2,6 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import {Route, Router, IndexRoute, hashHistory} from 'react-router'
 
+// Load components
+import Main from 'Main'
+
 // Load foundation
 $(document).foundation();
 
